@@ -1,0 +1,14 @@
+TRABALHO DE KASSIANE LOPES FAÇANHA 
+373700
+CC
+
+QUESTÃO 1 E 2
+
+Fiz a implementação dos métodos e salvei os resulltados em txt
+
+Na A entrei com 1 e 3
+Na B entrei com 2 e 3
+Na C entrei com 2 e 3
+Na D entrei com 5 e 6
+
+e o erro estipulado na questão.
